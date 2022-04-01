@@ -5,7 +5,8 @@ This userscript hides advertisements from the [Photopea web app](https://photope
 ## Usage
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [the userscript](https://raw.githubusercontent.com/AlejandroAkbal/Photopea-Advertisement-Hide/main/src/photopea_ad_hide.js) and add to Tampermonkey.
+2. Click [the userscript](https://raw.githubusercontent.com/AlejandroAkbal/Photopea-Advertisement-Hide/main/src/photopea_ad_hide.user.js) and add to
+   Tampermonkey.
 3. Go to the [Photopea web app](https://photopea.com).
 4. Enjoy!
 
